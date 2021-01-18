@@ -13,8 +13,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 60px 70px
-    width: fit-content;
+    padding: 60px 70px;
 }
 
 .header-wrapper > .goal1 {
